@@ -6,3 +6,9 @@ site_url: http://deepestdocs.readthedocs.io
 
 pages:
     - Home: index.md
+    - Teaching:
+        - 000 Introduction:
+            - 0000 Introduction Start: teaching/000_introduction/index.md
+        - 001 Tensorflow:
+            - 0010 Tensorflow Basic: teaching/001_tensorflow/0010_tensorflow_basic/0010_tensorflow_basic.md
+            - 0011 Tensorflow Advanced: teaching/001_tensorflow/0011_tensorflow_advanced/index.md
