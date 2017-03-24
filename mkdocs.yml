@@ -6,6 +6,7 @@ site_url: http://deepestdocs.readthedocs.io
 
 markdown_extensions:
     - mdx_math
+    - fenced_code
 
 extra_javascript: 
     - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
