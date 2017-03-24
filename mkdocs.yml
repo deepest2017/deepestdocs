@@ -4,6 +4,13 @@ docs_dir: docs
 repo_url: http://github.com/deepest2017/deepestdocs
 site_url: http://deepestdocs.readthedocs.io
 
+markdown_extensions:
+    - mdx_math
+    - fenced_code
+
+extra_javascript: 
+    - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
 pages:
     - Home: index.md
     - Teaching:
