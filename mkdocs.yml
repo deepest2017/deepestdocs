@@ -14,8 +14,8 @@ extra_javascript:
 pages:
     - Home: index.md
     - Teaching:
-        - 000 Introduction:
-            - 0000 Introduction Start: teaching/000_introduction/index.md
+        - 000 Introduction: teaching/000_introduction/000_introduction.md
         - 001 Tensorflow:
             - 0010 Tensorflow Basic: teaching/001_tensorflow/0010_tensorflow_basic/0010_tensorflow_basic.md
-            - 0011 Tensorflow Advanced: teaching/001_tensorflow/0011_tensorflow_advanced/index.md
+            - 0011 Tensorflow Advanced: teaching/001_tensorflow/0011_tensorflow_advanced/0011_tensorflow_advanced.md
+            - 0012 Tensorflow Master: teaching/001_tensorflow/0012_tensorflow_master/0012_tensorflow_master.md
