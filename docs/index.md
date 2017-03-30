@@ -2,6 +2,8 @@
 
 Deepest 문서방에 오신 것을 환영합니다!
 
+Contact: 심규홍(skhu20@snu.ac.kr)
+
 ## The Goal of Teaching
 
 교육의 목적
@@ -18,4 +20,4 @@ Deepest 문서방에 오신 것을 환영합니다!
 
 ## Contributors
 
-1주차: 심규홍, 강재윤, 김만준, 이지훈
+심규홍, 김만준, 강재윤, 이지훈, 김재현

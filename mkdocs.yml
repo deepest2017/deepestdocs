@@ -13,12 +13,20 @@ extra_javascript:
 
 pages:
     - Home: index.md
-    - Teaching:
-        - 000 Machine Learning:
-            - 0000 Machine Learning Basic: teaching/000_machine_learning/0000_machine_learning_basic.md
-            - 0001 Machine Learning Advanced: teaching/000_machine_learning/0001_machine_learning_advanced.md
-            - 0002 Machine Learning Master: teaching/000_machine_learning/0002_machine_learning_master.md
-        - 001 Tensorflow:
-            - 0010 Tensorflow Basic: teaching/001_tensorflow/0010_tensorflow_basic.md
-            - 0011 Tensorflow Advanced: teaching/001_tensorflow/0011_tensorflow_advanced.md
-            - 0012 Tensorflow Master: teaching/001_tensorflow/0012_tensorflow_master.md
+    - Overview: overview.md
+    - 000 Machine Learning:
+        - 0000 Machine Learning Basic: 000_machine_learning/0000_machine_learning_basic.md
+        - 0001 Machine Learning Advanced: 000_machine_learning/0001_machine_learning_advanced.md
+        - 0002 Machine Learning Master: 000_machine_learning/0002_machine_learning_master.md
+    - 001 Tensorflow:
+        - 0010 Tensorflow Basic: 001_tensorflow/0010.md
+        - 0011 Tensorflow Advanced: 001_tensorflow/0011.md
+        - 0012 Tensorflow Master: 001_tensorflow/0012.md
+    - 002 Deep Learning (DL) Part 1:
+        - 0020 DL Terms & Concepts: 002_deep_learning_part_1/0020.md
+        - 0021 Gradient Descent & Momentum: 002_deep_learning_part_1/0021.md
+        - 0022 Back Propagation: 002_deep_learning_part_1/0022.md
+        - 0023 Loss & Error: 002_deep_learning_part_1/0023.md
+        - 0024 Activation Function: 002_deep_learning_part_1/0024.md
+        - 0025 Initialization: 002_deep_learning_part_1/0025.md
+        - 0026 Regularization: 002_deep_learning_part_1/0026.md
