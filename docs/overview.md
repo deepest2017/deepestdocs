@@ -21,7 +21,7 @@ Part 1은 범용적인 개념들에 대해 다룹니다.
 	* 0020 DL Terms & Concepts
 	* 0021 Gradient Descent & Momentum
 	* 0022 Back Propagation
-	* 0023 Loss & Error
+	* 0023 Loss & Metric
 	* 0024 Activation Function
 	* 0025 Initialization
 	* 0026 Regularization
@@ -52,9 +52,9 @@ Part 1은 범용적인 개념들에 대해 다룹니다.
 	* 0071 VGGnet
 	* 0072 Inception
 	* 0073 Resnet
-* 009 Speech Processing
-	* 0090 Speech Preprocessing
-	* 0091 Popular Speech Dataset
+* 008 Speech Processing
+	* 0080 Speech Preprocessing
+	* 0081 Popular Speech Dataset
 
 ---
 
