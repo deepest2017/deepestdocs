@@ -26,7 +26,6 @@ pages:
         - 0020 DL Terms & Concepts: 002_deep_learning_part_1/0020.md
         - 0021 Gradient Descent & Momentum: 002_deep_learning_part_1/0021.md
         - 0022 Back Propagation: 002_deep_learning_part_1/0022.md
-        - 0023 Loss & Error: 002_deep_learning_part_1/0023.md
+        - 0023 Loss & Metric: 002_deep_learning_part_1/0023.md
         - 0024 Activation Function: 002_deep_learning_part_1/0024.md
         - 0025 Initialization: 002_deep_learning_part_1/0025.md
-        - 0026 Regularization: 002_deep_learning_part_1/0026.md
