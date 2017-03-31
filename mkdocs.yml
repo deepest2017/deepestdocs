@@ -29,3 +29,11 @@ pages:
         - 0023 Loss & Metric: 002_deep_learning_part_1/0023.md
         - 0024 Activation Function: 002_deep_learning_part_1/0024.md
         - 0025 Initialization: 002_deep_learning_part_1/0025.md
+    - 004 Deep Learning (DL) Part 2:
+        - 0040 Multi-Layer Perceptron (MLP): 004_deep_learning_part_2/0040.md
+        - 0041 Weight Decay: 004_deep_learning_part_2/0041.md
+        - 0042 Dropout: 004_deep_learning_part_2/0042.md
+        - 0043 Convolutional Neural Network (CNN): 004_deep_learning_part_2/0043.md
+        - 0044 Adaptive Learning Rate: 004_deep_learning_part_2/0044.md
+        - 0045 Batch Normalization (BN): 004_deep_learning_part_2/0045.md
+        - 0046 Recurrent Neural Network (RNN): 004_deep_learning_part_2/0046.md

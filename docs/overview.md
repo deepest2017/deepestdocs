@@ -24,7 +24,6 @@ Part 1은 범용적인 개념들에 대해 다룹니다.
 	* 0023 Loss & Metric
 	* 0024 Activation Function
 	* 0025 Initialization
-	* 0026 Regularization
 * 003 Image Processing
 	* 0030 Image Preprocessing
 	* 0031 Popular Image Dataset
@@ -33,10 +32,9 @@ Part 1은 범용적인 개념들에 대해 다룹니다.
 	* 0041 Weight Decay
 	* 0042 Dropout
 	* 0043 Convolutional Neural Network (CNN)
-	* 0044 Advanced Activation Function
-	* 0045 Adaptive Learning Rate
-	* 0046 Batch Normalization (BN)
-	* 0047 Recurrent Neural Network (RNN)
+	* 0044 Adaptive Learning Rate
+	* 0045 Batch Normalization (BN)
+	* 0046 Recurrent Neural Network (RNN)
 * 005 Text Processing
 	* 0050 Text Preprocessing
 	* 0051 Popular Text Dataset
