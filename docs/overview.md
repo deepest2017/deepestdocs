@@ -29,7 +29,7 @@ Part 1은 범용적인 개념들에 대해 다룹니다.
 	* 0031 Popular Image Dataset
 * 004 Deep Learning (DL) Part 2
 	* 0040 Multi-layer Perceptron (MLP)
-	* 0041 Weight Decay
+	* 0041 Norm Penalty
 	* 0042 Dropout
 	* 0043 Convolutional Neural Network (CNN)
 	* 0044 Adaptive Learning Rate
