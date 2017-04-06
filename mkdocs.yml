@@ -29,6 +29,9 @@ pages:
         - 0023 Loss & Metric: 002_deep_learning_part_1/0023.md
         - 0024 Activation Function: 002_deep_learning_part_1/0024.md
         - 0025 Initialization: 002_deep_learning_part_1/0025.md
+    - 003 Image Processing:
+        - 0030 Image Preprocessing: 003_image_processing/0030.md
+        - 0031 Popular Image Dataset: 003_image_processing/0031.md
     - 004 Deep Learning (DL) Part 2:
         - 0040 Multi-Layer Perceptron (MLP): 004_deep_learning_part_2/0040.md
         - 0041 Weight Decay: 004_deep_learning_part_2/0041.md
