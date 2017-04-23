@@ -25,7 +25,7 @@ Part 1은 범용적인 개념들에 대해 다룹니다.
 	* 0024 Activation Function
 	* 0025 Initialization
 * 003 Image Processing
-	* 0030 Image Preprocessing
+	* 0030 Preprocessing & Augmentation
 	* 0031 Popular Image Dataset
 * 004 Deep Learning (DL) Part 2
 	* 0040 Multi-layer Perceptron (MLP)
@@ -35,9 +35,9 @@ Part 1은 범용적인 개념들에 대해 다룹니다.
 	* 0044 Adaptive Learning Rate
 	* 0045 Batch Normalization (BN)
 	* 0046 Recurrent Neural Network (RNN)
-* 005 Text Processing
-	* 0050 Text Preprocessing
-	* 0051 Popular Text Dataset
+* 005 Sequence Processing
+	* 0050 Preprocessing & Masking
+	* 0051 Popular Sequence Dataset
 * 006 Deep Learning (DL) Part 3
 	* 0060 Autoencoder (AE)
 	* 0061 Language Model (LM)
